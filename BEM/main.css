@@ -18,10 +18,10 @@
   background-color: #ffff42;
 }
 .produtos .produto__imagem {
-  width: 300%;
+  width: 100%;
 }
 .produtos .produto__nome {
-  font-size: 2em;
+  font-size: 1.2em;
   margin: 8px 0;
 }
 .produtos .produto__descricao {

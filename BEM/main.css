@@ -19,7 +19,6 @@
 }
 .produtos .produto__imagem {
   width: 300%;
-  margin: 20px;
 }
 .produtos .produto__nome {
   font-size: 2em;
